@@ -1,3 +1,2 @@
 <?php
-echo php.info();
-echo "olá";
+echo date('d/m/Y');
